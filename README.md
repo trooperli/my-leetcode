@@ -1,0 +1,1 @@
+In this repo, I will record all the leetcode problems that I solved with my thinkings. I will add tags for each problem for easier search.
